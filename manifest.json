@@ -1,0 +1,21 @@
+{
+  "name": "Grafico Custom Rápido",
+  "description": "Visualização custom no Looker Studio",
+  "organization": "ENIAC",
+  "supportUrl": "https://eniac.edu.br",
+  "privacyPolicyUrl": "https://eniac.edu.br",
+  "termsOfServiceUrl": "https://eniac.edu.br",
+  "logoUrl": "",
+  "components": [
+    {
+      "id": "grafico_custom",
+      "name": "Gráfico Custom",
+      "description": "Vega Lite",
+      "iconUrl": "",
+      "resource": {
+        "js": "script.js",
+        "html": "index.html"
+      }
+    }
+  ]
+}
